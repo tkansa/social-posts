@@ -1,0 +1,17 @@
+.PostForm {
+    border: solid black 1px;
+    width: 500px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.PostForm button {
+    width: 60px;
+}
+
+input {
+    width: 150px;
+}
